@@ -1,7 +1,7 @@
-@import url(https://db.onlinewebfonts.com/c/fdadff3fd0ee0ccb0caed52edfd0ffa7?family=Core+Sans+D+35+Regular+W01+Rg); 
+@import url(https://db.onlinewebfonts.com/c/fdadff3fd0ee0ccb0caed52edfd0ffa7?family=Core+Sans+D+35+Regular+W01+Rg);
 @import "tailwindcss";
 
 @theme {
   /* --font-display: "PP_Neue_Montreal" */
-  --font-coresans: ['CoreSansD35', 'sans-serif']
+  --font-coresans: [ "CoreSansD35", "sans-serif"];
 }
