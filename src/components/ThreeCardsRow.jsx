@@ -1,8 +1,8 @@
 import React from "react"
 import Card2 from "./Card2"
-import oracleIconLg from "assets/oracleIconLg.svg"
-import webFlowIconLg from "assets/webFlowIconLg.svg"
-import oracleIcongreyLg from "assets/oracleIcongreyLg.svg"
+import oracleIconLg from "../assets/oracleIconLg.svg"
+import webFlowIconLg from "../assets/webFlowIconLg.svg"
+import oracleIcongreyLg from "../assets/oracleIcongreyLg.svg"
 
 export default function ThreeCardsRow() {
   return (

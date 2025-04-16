@@ -1,7 +1,7 @@
 import React from "react"
-import googleRating from "assets/googleRating.svg"
-import rating2 from "assets/rating2.svg"
-import buttonStars from "assets/buttonStars.svg"
+import googleRating from "../assets/googleRating.svg"
+import rating2 from "../assets/rating2.svg"
+import buttonStars from "../assets/buttonStars.svg"
 
 function TopContentText() {
   return (

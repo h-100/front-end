@@ -1,11 +1,11 @@
 import React from "react"
-import mobileIcon from "assets/mobileIcon.svg"
-import emailIcon from "assets/emailIcon.svg"
-import dataAccuracyIcon from "assets/dataAccuracyIcon.svg"
+import mobileIcon from "../assets/mobileIcon.svg"
+import emailIcon from "../assets/emailIcon.svg"
+import dataAccuracyIcon from "../assets/dataAccuracyIcon.svg"
 import SubCard from "./SubCard"
-import backgroundRed from "assets/backgroundRed.svg"
-import appleLogo from "assets/appleLogo.svg"
-import personLogo from "assets/personLogo.svg"
+import backgroundRed from "../assets/backgroundRed.svg"
+import appleLogo from "../assets/appleLogo.svg"
+import personLogo from "../assets/personLogo.svg"
 
 export default function Card() {
   return (

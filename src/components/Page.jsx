@@ -1,16 +1,16 @@
 import React from "react"
-import backgroundImage from "assets/background.svg"
+import backgroundImage from "../assets/background.svg"
 import Navbar from "./Navbar"
 import TopContentText from "./TopContentText"
-import table from "assets/table.svg"
-import companyIconsList from "assets/companyIconsList.svg"
+import table from "../assets/table.svg"
+import companyIconsList from "../assets/companyIconsList.svg"
 import Card from "./Card"
 import ThreeCards from "./ThreeCards"
 import FoundersCard from "./FoundersCard"
 import ThreeCardsRow from "./ThreeCardsRow"
 import ThreeCards3 from "./ThreeCards3"
 import Footer from "./Footer"
-import lowerBgImage from "assets/lowerBgImage.svg"
+import lowerBgImage from "../assets/lowerBgImage.svg"
 
 export default function Page() {
   return (

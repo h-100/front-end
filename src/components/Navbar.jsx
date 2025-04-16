@@ -1,5 +1,5 @@
 import React from "react"
-import companyIcon from "assets/companyIcon.svg"
+import companyIcon from "../assets/companyIcon.svg"
 
 function Navbar() {
   return (

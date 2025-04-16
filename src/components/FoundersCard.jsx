@@ -1,5 +1,5 @@
 import React from "react"
-import foundersCard from "assets/foundersCard.svg"
+import foundersCard from "../assets/foundersCard.svg"
 
 function FoundersCard() {
   return (
