@@ -1,11 +1,11 @@
 import React from "react"
-import companyLogo from "../assets/companyLogo.svg"
-import linkedinIcon from "../assets/linkedinIcon.svg"
-import youtubeIcon from "../assets/youtubeIcon.svg"
-import instaIcon from "../assets/instaIcon.svg"
-import twitterIcon from "../assets/twitterIcon.svg"
-import facebookIcon from "../assets/facebookIcon.svg"
-import footerBg from "../assets/footerBgImage.svg"
+import companyLogo from "assets/companyLogo.svg"
+import linkedinIcon from "assets/linkedinIcon.svg"
+import youtubeIcon from "assets/youtubeIcon.svg"
+import instaIcon from "assets/instaIcon.svg"
+import twitterIcon from "assets/twitterIcon.svg"
+import facebookIcon from "assets/facebookIcon.svg"
+import footerBg from "assets/footerBgImage.svg"
 
 export default function Footer() {
   return (

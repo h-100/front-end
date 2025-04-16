@@ -1,5 +1,5 @@
 import React from "react"
-import arrowIcon from "../assets/arrowIcon.svg"
+import arrowIcon from "assets/arrowIcon.svg"
 
 export default function StoryCard({ icon }) {
   return (

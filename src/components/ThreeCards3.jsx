@@ -1,7 +1,7 @@
 import React from "react"
-import card1aBg from "../assets/card1aBg.svg"
-import card2aBg from "../assets/card2aBg.svg"
-import card3aBg from "../assets/card3aBg.svg"
+import card1aBg from "assets/card1aBg.svg"
+import card2aBg from "assets/card2aBg.svg"
+import card3aBg from "assets/card3aBg.svg"
 
 export default function ThreeCards3() {
   return (
